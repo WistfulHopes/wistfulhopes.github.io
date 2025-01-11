@@ -18,8 +18,23 @@ gallery:
 
 Night Sky Engine is a free and open source fighting game framework made in Unreal Engine 5. It is designed to be powerful yet easy to learn, and can be used to make 2D and 2.5D fighting games.
 
+<iframe width="1236" height="695" src="https://www.youtube.com/embed/ySgZ6zl8yBo" title="UE5 2D crossover fighting game... WITH ROLLBACK NETCODE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 {% include gallery %}
 
-I have been programming it since mid-2022, with almost all of the code being solely by me. It includes industry-standard features such as rollback netcode and cross-platform determinism.
+I have been programming it since mid-2022, with almost all of the code being solely by me.
+
+Key features include:
+
+- Rollback netcode via GGPO
+- Online Subsystem support
+- Cross-platform determinism
+- Blueprint scripting for high-level gameplay
+- C++ backend
+- Support for 2D sprites and 3D models
+- A variety of battle modes, including tag team or King of Fighters-style modes
+- Initial support for transitions from overworld to battles and back, similar to Street Fighter 6's World Tour mode
+
+I also animated the UE5 Mannequin for the GitHub project, and created new VFX and shaders.
 
 For more information, check [the documentation](https://wistfulhopes.github.io/NightSkyEngine/).

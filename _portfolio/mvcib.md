@@ -24,10 +24,18 @@ gallery:
 
 Marvel vs. Capcom Infinite & Beyond is a fan-made mod that completely overhauls the game Marvel vs. Capcom Infinite in many aspects.
 
-Notable features include a new cel-shaded art style, optional gameplay rebalancing, and new game modes.
+<iframe width="1236" height="695" src="https://www.youtube.com/embed/PXorZjVETFQ" title="LAUNCH TRAILER - Marvel Vs. Capcom Infinite &amp; Beyond" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {% include gallery %}
 
-I started the project in May 2024 with tools and the initial artstyle, got Maximilian Dood's attention, and helped form the team of 40+ members. The mod was released in December 2024.
+I started the project in May 2024 by creating tools and the initial artstyle, got Maximilian Dood's attention, and helped form the team of 40+ members. The mod was released in December 2024.
+
+Notable features include:
+
+- A brand new cel-shaded art style inspired by comics
+- New textures for every character in the game
+- Adjusted models for some characters
+- Rebalanced gameplay
+- New modes involving four players
 
 For more information, check [the official site](https://www.mvcib.com/).

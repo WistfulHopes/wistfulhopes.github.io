@@ -105,3 +105,6 @@ footer:
     - label: "BlueSky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://wistfulhopes.bsky.social"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/aeryn-mu-11ba4b26a/"
