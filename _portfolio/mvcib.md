@@ -28,4 +28,6 @@ Notable features include a new cel-shaded art style, optional gameplay rebalanci
 
 {% include gallery %}
 
+I started the project in May 2024 with tools and the initial artstyle, got Maximilian Dood's attention, and helped form the team of 40+ members. The mod was released in December 2024.
+
 For more information, check [the official site](https://www.mvcib.com/).

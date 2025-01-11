@@ -11,3 +11,5 @@ header:
 excerpt: >
   The website of Aeryn Mu, known on the internet as WistfulHopes.<br />
 ---
+
+I'm a programmer and artist who works in game development and modding. This site is still under construction, but has my two biggest projects listed in the portfolio.
