@@ -3,13 +3,16 @@ title: "Goku in Strive"
 excerpt: "A mod that puts Goku from Dragon Ball FighterZ in Guilty Gear -Strive-."
 header:
   image: /assets/images/goku-header-image.jpg
-  teaser: assets/images/goku-gallery-image-1.jpg
+  teaser: assets/images/goku-header-image.jpg
 sidebar:
   - title: "Role"
     text: "Modder"
 gallery:
+  - url: /assets/images/goku-gallery-image-1.jpg
+    image_path: assets/images/goku-gallery-image-1.jpg
+    alt: "Goku performing 2H."
   - url: /assets/images/goku-gallery-image-2.png
-    image_path: assets/images/goku-gallery-image-2.png
+    image_path: assets/images/goku-gallery-image-2.jpg
     alt: "Goku in Strive."
 ---
 
