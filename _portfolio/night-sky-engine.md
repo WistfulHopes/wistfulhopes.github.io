@@ -1,12 +1,12 @@
 ---
-title: "Night Sky Engine"
-excerpt: "A fighting game framework made in Unreal Engine 5."
+title: "Night Sky Engine & Saturday AM Battle Manga"
+excerpt: "A fighting game framework made in Unreal Engine 5, and a commercial game made using it"
 header:
   image: /assets/images/nse-header-image.png
   teaser: assets/images/nse-gallery-image-1.png
 sidebar:
   - title: "Role"
-    text: "Developer"
+    text: "Lead Programmer"
 gallery:
   - url: /assets/images/nse-gallery-image-2.png
     image_path: assets/images/nse-gallery-image-2.png
@@ -18,11 +18,11 @@ gallery:
 
 Night Sky Engine is a free and open source fighting game framework made in Unreal Engine 5. It is designed to be powerful yet easy to learn, and can be used to make 2D and 2.5D fighting games.
 
-<iframe width="1236" height="695" src="https://www.youtube.com/embed/ySgZ6zl8yBo" title="UE5 2D crossover fighting game... WITH ROLLBACK NETCODE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1236" height="695" src="https://youtu.be/QYGgE_1XJ5Q" title="Saturday AM Battle Manga Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {% include gallery %}
 
-I have been programming it since mid-2022, with almost all of the code being solely by me.
+I have been programming it since mid-2022, with almost all of the code being solely by me. It is currently being used to power Saturday AM Battle Manga, a commercial 2D fighting game.
 
 Key features include:
 
